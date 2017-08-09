@@ -8,7 +8,7 @@
 Summary:	Validating URI References per RFC 3986
 Name:		python-rfc3986
 Version:	1.1.0
-Release:	0.1
+Release:	1
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/r/rfc3986/rfc3986-%{version}.tar.gz
