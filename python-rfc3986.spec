@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Sprawdzanie poprawności URI według RFC 3986
 Name:		python-rfc3986
 # keep 1.x here for python2 support
 Version:	1.5.0
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/r/rfc3986/rfc3986-%{version}.tar.gz
